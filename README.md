@@ -112,3 +112,7 @@ Get feedback privately, then document and get support publicly.
 
 * [SPADE: How to Make A Decision inspired by Gokul Rajaram](https://coda.io/t/SPADE-How-to-Make-A-Decision-inspired-by-Gokul-Rajaram_tdVf2rA_0PL)
 
+* [Forget RACI, SPADE will pay off in spades](https://medium.com/org-hacking/forget-raci-spade-will-pay-off-in-spades-rajaram-1da6d1e9bfb5)
+
+* [Decide as a Team Using Square’s SPADE Model](https://academy.nobl.io/use-squares-decision-making-model-to-move-forward-as-a-team/)
+
