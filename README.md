@@ -11,6 +11,7 @@ The SPADE decision-making framework is an acronym for Setting, People, Alternati
 * [Key takeaways](#key-takeaways)
 * [Links](#links)
 
+
 ## Introduction
 
 The SPADE decision-making framework can help synchronize and speed up collaboration to make difficult choices. The system outlines a step-by-step process.
@@ -97,11 +98,11 @@ This stage involves three steps:
 
 ## Key takeaways
 
-Understand the purpose and context for making the decision, in order to optimize. 
+Understand the purpose and context for making the decision, in order to optimize.
   
-Ensure that the decision maker is both responsible and accountable for the final choice. 
+Ensure that the decision maker is both responsible and accountable for the final choice.
   
-Consult maximally, because many more people want to be involved than you think
+Consult maximally, because many more people want to be involved than you think.
   
 Get feedback privately, then document and get support publicly.
 
