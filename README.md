@@ -1,6 +1,6 @@
 # SPADE decision-making framework
 
-The SPADE decision-making framework is an acronym for Setting, People, Alternatives, Decide and Explain. 
+The SPADE decision-making framework is an acronym for Setting, People, Alternatives, Decide, Explain. 
 
 * [Introduction](#introduction)
 * [S = Setting](#s-setting)
