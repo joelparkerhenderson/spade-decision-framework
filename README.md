@@ -28,7 +28,9 @@ The SPADE decision-making framework can help synchronize and speed up collaborat
 
 SPADE was created by Gokul Rajaram at Google and Jeff Kolovson at Square.
 
-This summary page is based on [Square Defangs Difficult Decisions with this System — Here’s How](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
+  * This summary page is based on [Square Defangs Difficult Decisions with this System — Here’s How](https://firstround.com/review/square-defangs-difficult-decisions-with-this-system-heres-how/)
+
+  * [Goku's SPADE toolkit](https://coda.io/@gokulrajaram/gokuls-spade-toolkit) is an interactive template for SPADE.
 
 
 
