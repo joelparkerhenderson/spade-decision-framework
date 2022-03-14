@@ -85,11 +85,11 @@ Now that the decision maker has all the votes, they should evaluate the informat
 
 ## E = Explain
 
-The decision maker must explain the decision. They must articulate why they chose the alternative that they did, and explain the anticipated impact of the decision. This process is much easier if the decision maker records their thoughts as soon as they makes the decision. 
+The decision maker must explain the decision. They must articulate why they chose the alternative that they did, and explain the anticipated impact of the decision. This process is much easier if the decision maker records their thoughts as soon as they make the decision. 
 
 This stage involves three steps:
 
-* Run your decision and the process by the Approver. The default of the Approver should be to monitor the decision process, not result. Since the decision maker is leading the SPADE framework, it’s likely that the approver has not been as involved, and therefore can evaluate the decision with a fresh perspective. If you’re responsible for the decision, meet with the Approver, explain the decision, and get buy-in. If you created a high quality decision framework, then the Approve is likely to approve it.
+* Run your decision and the process by the Approver. The default of the Approver should be to monitor the decision process, not result. Since the decision maker is leading the SPADE framework, it’s likely that the approver has not been as involved, and therefore can evaluate the decision with a fresh perspective. If you’re responsible for the decision, meet with the Approver, explain the decision, and get buy-in. If you created a high quality decision framework, then the Approver is likely to approve it.
 
 * Convene a commitment meeting. This takes coordination, and it’s important to pull together all the consultants that have been involved in the decision. Reserve a conference room and line that will include all participants to date. Then walk them through the decision. Explain the decision and rtake ownership of the decision. There might be grumbling or disagreements, but this is the moment when you explicitly become the owner of the decision. It’s paramount that each person — regardless of being for or against the result — individually pledges support out loud in the meeting. Go around the room and ask each one of them to support the decision one at a time. Commitment meetings are important because when you pledge to support a decision in the presence of your peers, you're much more likely to support it. Pledging support aloud binds you to the greater good.
 
